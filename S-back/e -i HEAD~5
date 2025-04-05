@@ -1,0 +1,88 @@
+[33me7ef550[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mincome[m[33m)[m Remove .env from tracking
+[33m4d62ce5[m test
+[33m25bdf48[m[33m ([m[1;32mincome3[m[33m)[m test
+[33m908050c[m[33m ([m[1;32mincome2[m[33m)[m backend/income end
+[33m6ac470c[m[33m ([m[1;31morigin/develop[m[33m, [m[1;32mdevelop[m[33m)[m Merge pull request #39 from kopuragi/income
+[33m587e18a[m[33m ([m[1;31morigin/income[m[33m)[m backend/income
+[33m5440987[m Merge pull request #38 from kopuragi/feat/실수
+[33m35e6c2c[m 실수
+[33m4fb9ca3[m Merge pull request #36 from kopuragi/feat/app2
+[33m1b2e278[m Merge branch 'develop' into feat/app2
+[33m080df47[m Merge pull request #37 from kopuragi/lhm/filefeat
+[33m8338a1c[m file227
+[33m0acdaa3[m Merge pull request #34 from kopuragi/ch-br
+[33m1093d02[m app2합침
+[33mfdc8df3[m app2
+[33m86a6761[m up
+[33m1bfc1b2[m Merge pull request #33 from kopuragi/income
+[33mc15d031[m backend/income
+[33me8963a9[m Merge pull request #32 from kopuragi/lhm/back
+[33m0a1f9a7[m file add
+[33m889d870[m Merge pull request #31 from kopuragi/income
+[33m8b42a69[m error
+[33mbe8ccfe[m Merge pull request #30 from kopuragi/lhm/back
+[33m4d93789[m Merge pull request #29 from kopuragi/income
+[33m4f4e503[m Merge pull request #28 from kopuragi/feat/소켓75퍼
+[33mfee194a[m menu controller
+[33mcb1f80b[m Merge branch 'develop' into income
+[33ma52f386[m [backend]/income
+[33mcf2377b[m 소켓95퍼
+[33m6995c55[m Merge pull request #27 from kopuragi/feat/소켓75퍼
+[33mbbec13f[m 소켓90퍼
+[33mbbce108[m Merge pull request #26 from kopuragi/feat/소켓75퍼
+[33mbb99ca1[m 소켓85퍼
+[33m1f862cc[m Merge pull request #25 from kopuragi/feat/소켓40퍼
+[33m1f6aac7[m 소켓70퍼
+[33ma84ba42[m Merge pull request #24 from kopuragi/lhm/bfeat
+[33mb285296[m Merge pull request #23 from kopuragi/feat/소켓40퍼
+[33mb052393[m menu controller
+[33mf3170f3[m 소켓55퍼
+[33m5501d9d[m Merge pull request #22 from kopuragi/lhm/feat
+[33mf73f58b[m menu controller sql
+[33m815afd3[m Merge pull request #21 from kopuragi/test
+[33me0b07ca[m reviewBack
+[33m212408b[m Merge pull request #20 from kopuragi/lhm/feat
+[33m47af079[m Merge pull request #19 from kopuragi/feat/소켓40퍼
+[33mccdf4b0[m menu controller
+[33mfc8583c[m 소켓50퍼
+[33mf444b6c[m 소켓40퍼
+[33m3a1b705[m Merge pull request #18 from kopuragi/feat/소켓30퍼
+[33mab300ef[m 소켓35%
+[33mb03c5b2[m Merge pull request #17 from kopuragi/feat/소켓30퍼
+[33me50e0a0[m 소켓30퍼
+[33m51b2ac6[m Merge pull request #14 from kopuragi/cchh-br
+[33mdeab344[m Merge branch 'develop' into cchh-br
+[33m517b03a[m Merge pull request #16 from kopuragi/lhm/back
+[33m52f88ef[m Merge pull request #15 from kopuragi/test
+[33mb0517b4[m lhm controller
+[33m9638699[m reviewBack
+[33me917395[m db에 membershiptype 추가, user 컨트롤러 메서드 수정
+[33m0831df8[m 1
+[33m1736184[m 코드 다이어트, api, 매서드 수정
+[33m1aed968[m 21
+[33m7784787[m Merge pull request #9 from kopuragi/lhm/back
+[33m4196278[m db 수정
+[33m6dea1ce[m Merge pull request #8 from kopuragi/feat/소켓
+[33mc984e18[m 소켓
+[33m40fd6f6[m Merge pull request #7 from kopuragi/test
+[33md61a608[m ownerReviewBack
+[33mfdfc710[m Merge pull request #6 from kopuragi/income2
+[33m9946542[m Merge branch 'develop' into income2
+[33mb0fb7cd[m Merge pull request #5 from kopuragi/test
+[33m4d6e18e[m[33m ([m[1;31morigin/income2[m[33m)[m [250219:bakceknd:income]
+[33mf7bf97c[m Ownerbackend
+[33m7873c5e[m Merge pull request #4 from kopuragi/lhm-back
+[33m75c08c6[m lhm-back
+[33ma3463fb[m addTable
+[33m767b797[m Merge pull request #3 from kopuragi/lhm
+[33ma450d3a[m sequelize
+[33m19eca98[m Merge pull request #2 from kopuragi/lhm
+[33m83ea6c0[m sql
+[33md47fda1[m sql
+[33m6822128[m sql
+[33maa1c92f[m sql
+[33m285d925[m sql
+[33m6d33993[m Merge pull request #1 from kopuragi/lhm
+[33mccb49ec[m shikshokk.sql
+[33m9e545fc[m[33m ([m[1;31morigin/main[m[33m, [m[1;32mmain[m[33m)[m create
+[33mf95fc4f[m first commit
