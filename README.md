@@ -14,15 +14,14 @@
 #### 목표
   &nbsp;&nbsp; 🍕 Socket.io를 이용한 실시간 주문 관리와 점주 입장에서 간편하게 메뉴, 매출 관리 등이 가능한 서비스 만들기
 #### 팀 구성 및 역할
-  &nbsp;&nbsp; 🍕 <a href="https://github.com/orgs/kopuragi/people/imujinu">@imujinu(팀장, 풀스택</a>) / <a href="https://github.com/orgs/kopuragi/people/abcbinch">@abcbinch(풀스택)</a> / <a href="https://github.com/hjink11?tab=repositories">@hjink11(풀스택</a>) / <a href="https://github.com/orgs/kopuragi/people/Gominbong">@Gominbong(풀스택)</a> / <a href="https://github.com/orgs/kopuragi/people/maxbeny">@maxbeny(풀스택)</a>
+  &nbsp;&nbsp; 🍕 <a href="https://github.com/imujinu">@imujinu(팀장, 풀스택</a>) / 
+  <a href="https://github.com/abcbinch">@abcbinch(풀스택)</a> / <a href="https://github.com/hjink11?tab=repositories">@hjink11(풀스택</a>) / <a href="https://github.com/Gominbong">@Gominbong(풀스택)</a> / <a href="https://github.com/maxbeny">@maxbeny(풀스택)</a>
 #### 주요 기능 
   &nbsp;&nbsp; 🍕 실시간 음식 주문, 매출 관리, 메뉴 관리, 리뷰 관리
 #### 개발 기간  
   &nbsp;&nbsp; 🍕 2025.02.10 ~ 2025.02.28
 <br><br><br>  
 
-## 주요기능 
-----
 
 ## 기술 스택
 <p align="center">
