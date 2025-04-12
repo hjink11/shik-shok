@@ -143,7 +143,7 @@ export default function CustomerShopDetail(props: object) {
                         <img
                           src={
                             mel.saveMfile
-                              ? "https://lhm-bucket.s3.ap-northeast-2.amazonaws.com/" +
+                              ? "https://hj91-bucket.s3.ap-northeast-2.amazonaws.com/" +
                                 mel.saveMfile
                               : process.env.PUBLIC_URL + "/assets/fork-E.svg"
                           }

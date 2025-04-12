@@ -28,7 +28,7 @@ export default function Menus() {
   let [categoryArr, setCategoryArr] = useState<string[]>([]);
   let [selectMenu, setSelectMenu] = useState<Menus | null>(null);
   let [imgS3route, setImgS3route] = useState<string>(
-    "https://lhm-bucket.s3.ap-northeast-2.amazonaws.com/"
+    "https://hj91-bucket.s3.ap-northeast-2.amazonaws.com/ "
   );
   const [isUpdated, setIsUpdated] = useState(false);
   const owner_id = useSelector((state: RootState) => state.login.id);
@@ -116,7 +116,7 @@ export default function Menus() {
                           <img
                             src={
                               mel.saveMfile
-                                ? `https://lhm-bucket.s3.ap-northeast-2.amazonaws.com/${mel.saveMfile}`
+                                ? `https://hj91-bucket.s3.ap-northeast-2.amazonaws.com/${mel.saveMfile}`
                                 : process.env.PUBLIC_URL + "/assets/fork-E.svg"
                             }
                             alt="aws s3에 저장된 이미지"
