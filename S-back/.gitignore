@@ -2,3 +2,5 @@ node_modules/
 /migrations/
 .env
 .env.production.DS_Store
+.DS_Store
+.env.production
