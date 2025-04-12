@@ -1,4 +1,4 @@
 node_modules/
 /migrations/
 .env
-.env.production
+.env.production.DS_Store
